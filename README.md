@@ -12,10 +12,11 @@ A Qt widget to control cmus.
 ## Themes Config Example
 
 ```json
-import Component from 'my-project'
-
-function App() {
-  return <Component />
+{
+  "accent": "#80316ec9",
+  "darkaccent": "#3d88fa",
+  "background": "#80030101",
+  "foreground": "#ffff7b"
 }
 ```
 
