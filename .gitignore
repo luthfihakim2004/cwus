@@ -1,0 +1,30 @@
+# CMake build files
+/build/
+/CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Qt-generated files
+*_autogen/
+*.qrc.depends
+.qrc/
+*.pro.user*
+*.qrc.cpp
+.qmake.stash
+
+# Executables
+*.out
+*.app
+cwus
+
+# IDEs
+*.user
+*.user.*
+.idea/
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
