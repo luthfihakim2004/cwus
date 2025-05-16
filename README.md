@@ -22,5 +22,5 @@ function App() {
 
 ## Screenshots
 
-![App Screenshot](https://github.com/luthfihakim2004/cwus/blob/main/preview.gif)
+![](https://github.com/luthfihakim2004/cwus/blob/main/preview.gif)
 
